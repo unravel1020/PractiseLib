@@ -1,0 +1,198 @@
+[2025-04-30 09:53:49] [INFO] [INFO] MultiThreadServerDemo.cpp:74 | Starting server...
+[2025-04-30 09:53:49] [INFO] [INFO] MultiThreadServerDemo.cpp:90 | Server is listening on port 8080...
+[2025-04-30 09:54:01] [INFO] [INFO] MultiThreadServerDemo.cpp:96 | New client connected.
+[2025-04-30 09:54:03] [INFO] [INFO] MultiThreadServerDemo.cpp:57 | Received data: hi
+[2025-04-30 09:54:03] [INFO] [INFO] MultiThreadServerDemo.cpp:59 | Sent response.
+[2025-04-30 09:54:06] [INFO] [INFO] MultiThreadServerDemo.cpp:57 | Received data: hello
+[2025-04-30 09:54:06] [INFO] [INFO] MultiThreadServerDemo.cpp:59 | Sent response.
+[2025-04-30 09:54:10] [INFO] [INFO] MultiThreadServerDemo.cpp:57 | Received data: sdfadfahi
+[2025-04-30 09:54:10] [INFO] [INFO] MultiThreadServerDemo.cpp:59 | Sent response.
+[2025-04-30 09:54:13] [INFO] [INFO] MultiThreadServerDemo.cpp:57 | Received data: asdfasoiehawogehiogahoghqgoiqhgo
+[2025-04-30 09:54:13] [INFO] [INFO] MultiThreadServerDemo.cpp:59 | Sent response.
+[2025-04-30 09:54:17] [INFO] [INFO] MultiThreadServerDemo.cpp:57 | Received data: aogushdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+[2025-04-30 09:54:17] [INFO] [INFO] MultiThreadServerDemo.cpp:59 | Sent response.
+[2025-04-30 09:54:22] [INFO] [INFO] MultiThreadServerDemo.cpp:68 | Client disconnected.
+[2025-04-30 09:54:34] [INFO] [INFO] MultiThreadServerDemo.cpp:25 | Interrupt signal (2) received.
+[2025-04-30 10:06:49] [INFO] [INFO] MultiThreadServerDemo.cpp:80 | Starting server...
+[2025-04-30 10:06:49] [INFO] [INFO] MultiThreadServerDemo.cpp:96 | Server is listening on port 8080...
+[2025-04-30 10:06:52] [INFO] [INFO] MultiThreadServerDemo.cpp:102 | New client connected.
+[2025-04-30 10:06:54] [INFO] [INFO] MultiThreadServerDemo.cpp:60 | Received data: hi
+[2025-04-30 10:06:54] [INFO] [INFO] MultiThreadServerDemo.cpp:65 | Sent response.
+[2025-04-30 10:06:56] [INFO] [INFO] MultiThreadServerDemo.cpp:60 | Received data: ÄãºÃ
+[2025-04-30 10:06:56] [INFO] [INFO] MultiThreadServerDemo.cpp:65 | Sent response.
+[2025-04-30 10:07:00] [INFO] [INFO] MultiThreadServerDemo.cpp:60 | Received data: hhhhh
+[2025-04-30 10:07:00] [INFO] [INFO] MultiThreadServerDemo.cpp:65 | Sent response.
+[2025-04-30 10:07:05] [INFO] [INFO] MultiThreadServerDemo.cpp:75 | Client disconnected.
+[2025-04-30 10:07:22] [INFO] [INFO] MultiThreadServerDemo.cpp:25 | Interrupt signal (2) received.
+[2025-04-30 10:20:33] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Starting server...
+[2025-04-30 10:20:33] [INFO] [INFO] MultiThreadServerDemo.cpp:101 | Server is listening on port 8080...
+[2025-04-30 10:20:36] [INFO] [INFO] MultiThreadServerDemo.cpp:107 | New client connected.
+[2025-04-30 10:20:38] [INFO] [INFO] MultiThreadServerDemo.cpp:65 | Received data: hi
+[2025-04-30 10:20:38] [INFO] [INFO] MultiThreadServerDemo.cpp:70 | Sent response.
+[2025-04-30 10:20:39] [INFO] [INFO] MultiThreadServerDemo.cpp:65 | Received data: hello
+[2025-04-30 10:20:39] [INFO] [INFO] MultiThreadServerDemo.cpp:70 | Sent response.
+[2025-04-30 10:20:43] [INFO] [INFO] MultiThreadServerDemo.cpp:65 | Received data: are you ok?
+[2025-04-30 10:20:43] [INFO] [INFO] MultiThreadServerDemo.cpp:70 | Sent response.
+[2025-04-30 10:20:45] [INFO] [INFO] MultiThreadServerDemo.cpp:65 | Received data: ÄãºÃ
+[2025-04-30 10:20:45] [INFO] [INFO] MultiThreadServerDemo.cpp:70 | Sent response.
+[2025-04-30 10:20:47] [INFO] [INFO] MultiThreadServerDemo.cpp:65 | Received data: ¹þ¹þ¹þ¹þ¹þ
+[2025-04-30 10:20:47] [INFO] [INFO] MultiThreadServerDemo.cpp:70 | Sent response.
+[2025-04-30 10:20:49] [INFO] [INFO] MultiThreadServerDemo.cpp:65 | Received data: hhhhhh
+[2025-04-30 10:20:49] [INFO] [INFO] MultiThreadServerDemo.cpp:70 | Sent response.
+[2025-04-30 10:20:53] [INFO] [INFO] MultiThreadServerDemo.cpp:65 | Received data: see you
+[2025-04-30 10:20:53] [INFO] [INFO] MultiThreadServerDemo.cpp:70 | Sent response.
+[2025-04-30 10:20:55] [INFO] [INFO] MultiThreadServerDemo.cpp:65 | Received data: quit
+[2025-04-30 10:20:55] [INFO] [INFO] MultiThreadServerDemo.cpp:70 | Sent response.
+[2025-04-30 10:20:59] [INFO] [INFO] MultiThreadServerDemo.cpp:74 | Client requested disconnect.
+[2025-04-30 10:20:59] [INFO] [INFO] MultiThreadServerDemo.cpp:80 | Client disconnected.
+[2025-04-30 10:21:09] [INFO] [INFO] MultiThreadServerDemo.cpp:25 | Interrupt signal (2) received.
+[2025-04-30 11:26:05] [INFO] [INFO] MultiThreadServerDemo.cpp:97 | Starting server...
+[2025-04-30 11:26:05] [INFO] [INFO] MultiThreadServerDemo.cpp:113 | Server is listening on port 8080...
+[2025-04-30 11:26:16] [INFO] [INFO] MultiThreadServerDemo.cpp:119 | New client connected.
+[2025-04-30 11:26:21] [ERROR] [ERROR] MultiThreadServerDemo.cpp:48 | recv() failed with error: 10060
+[2025-04-30 11:26:21] [INFO] [INFO] MultiThreadServerDemo.cpp:92 | Client disconnected.
+[2025-04-30 11:26:34] [INFO] [INFO] MultiThreadServerDemo.cpp:25 | Interrupt signal (2) received.
+[2025-04-30 13:58:34] [INFO] [INFO] MultiThreadServerDemo.cpp:120 | Starting server...
+[2025-04-30 13:58:34] [INFO] [INFO] MultiThreadServerDemo.cpp:139 | Server is listening on port 8080...
+[2025-04-30 13:58:40] [INFO] [INFO] MultiThreadServerDemo.cpp:145 | New client connected.
+[2025-04-30 13:58:42] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: hi
+[2025-04-30 13:58:42] [INFO] [INFO] MultiThreadServerDemo.cpp:76 | Sent response.
+[2025-04-30 13:58:45] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: hello
+[2025-04-30 13:58:45] [INFO] [INFO] MultiThreadServerDemo.cpp:76 | Sent response.
+[2025-04-30 13:58:50] [ERROR] [ERROR] MultiThreadServerDemo.cpp:51 | recv() failed with error: 10060
+[2025-04-30 13:58:50] [INFO] [INFO] MultiThreadServerDemo.cpp:114 | Client disconnected.
+[2025-04-30 13:59:19] [INFO] [INFO] MultiThreadServerDemo.cpp:145 | New client connected.
+[2025-04-30 13:59:24] [ERROR] [ERROR] MultiThreadServerDemo.cpp:51 | recv() failed with error: 10060
+[2025-04-30 13:59:24] [INFO] [INFO] MultiThreadServerDemo.cpp:114 | Client disconnected.
+[2025-04-30 13:59:30] [INFO] [INFO] MultiThreadServerDemo.cpp:145 | New client connected.
+[2025-04-30 13:59:35] [ERROR] [ERROR] MultiThreadServerDemo.cpp:51 | recv() failed with error: 10060
+[2025-04-30 13:59:35] [INFO] [INFO] MultiThreadServerDemo.cpp:114 | Client disconnected.
+[2025-04-30 13:59:41] [INFO] [INFO] MultiThreadServerDemo.cpp:145 | New client connected.
+[2025-04-30 13:59:44] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: are you ok
+[2025-04-30 13:59:44] [INFO] [INFO] MultiThreadServerDemo.cpp:76 | Sent response.
+[2025-04-30 13:59:49] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: aaaaaaaaaaaaaaaaaaaa
+[2025-04-30 13:59:49] [INFO] [INFO] MultiThreadServerDemo.cpp:76 | Sent response.
+[2025-04-30 13:59:52] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: aaaaaaaaaaaaaaaaaaaaaaaaaaa
+[2025-04-30 13:59:52] [INFO] [INFO] MultiThreadServerDemo.cpp:76 | Sent response.
+[2025-04-30 13:59:57] [ERROR] [ERROR] MultiThreadServerDemo.cpp:51 | recv() failed with error: 10060
+[2025-04-30 13:59:57] [INFO] [INFO] MultiThreadServerDemo.cpp:114 | Client disconnected.
+[2025-04-30 14:00:08] [INFO] [INFO] MultiThreadServerDemo.cpp:145 | New client connected.
+[2025-04-30 14:00:12] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: why?
+[2025-04-30 14:00:12] [INFO] [INFO] MultiThreadServerDemo.cpp:76 | Sent response.
+[2025-04-30 14:00:17] [ERROR] [ERROR] MultiThreadServerDemo.cpp:51 | recv() failed with error: 10060
+[2025-04-30 14:00:17] [INFO] [INFO] MultiThreadServerDemo.cpp:114 | Client disconnected.
+[2025-04-30 14:00:34] [INFO] [INFO] MultiThreadServerDemo.cpp:26 | Interrupt signal (2) received.
+[2025-04-30 14:15:40] [INFO] [INFO] MultiThreadServerDemo.cpp:109 | Starting server...
+[2025-04-30 14:15:40] [INFO] [INFO] MultiThreadServerDemo.cpp:128 | Server is listening on port 8080...
+[2025-04-30 14:15:48] [INFO] [INFO] MultiThreadServerDemo.cpp:134 | New client connected.
+[2025-04-30 14:15:48] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:15:50] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:15:52] [INFO] [INFO] MultiThreadServerDemo.cpp:74 | Received data: hello
+[2025-04-30 14:15:52] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:15:54] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:15:56] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:15:58] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:15:59] [INFO] [INFO] MultiThreadServerDemo.cpp:74 | Received data: are you ok?
+[2025-04-30 14:16:00] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:02] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:04] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:06] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:08] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:10] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:12] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:13] [INFO] [INFO] MultiThreadServerDemo.cpp:74 | Received data: What's wrong with you
+[2025-04-30 14:16:14] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:16] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:18] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:20] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:22] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:23] [INFO] [INFO] MultiThreadServerDemo.cpp:74 | Received data: What the hell?
+[2025-04-30 14:16:24] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:27] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:29] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:31] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:33] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:35] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:37] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:39] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:41] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:43] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:43] [INFO] [INFO] MultiThreadServerDemo.cpp:74 | Received data: Alright, I'll check the server'slog
+[2025-04-30 14:16:45] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:47] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:49] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:51] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:53] [INFO] [INFO] MultiThreadServerDemo.cpp:85 | Received PING, sending PONG.
+[2025-04-30 14:16:54] [ERROR] [ERROR] MultiThreadServerDemo.cpp:57 | recv() failed with error: 0
+[2025-04-30 14:16:54] [INFO] [INFO] MultiThreadServerDemo.cpp:103 | Client disconnected.
+[2025-04-30 14:17:04] [INFO] [INFO] MultiThreadServerDemo.cpp:32 | Interrupt signal (2) received.
+[2025-04-30 15:00:49] [INFO] [INFO] MultiThreadServerDemo.cpp:114 | Starting server...
+[2025-04-30 15:00:49] [INFO] [INFO] MultiThreadServerDemo.cpp:133 | Server is listening on port 8080...
+[2025-04-30 15:00:55] [INFO] [INFO] MultiThreadServerDemo.cpp:139 | New client connected.
+[2025-04-30 15:00:55] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:00:56] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: hi
+[2025-04-30 15:00:57] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:00:58] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: hello
+[2025-04-30 15:00:59] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:01] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:03] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:05] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:07] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:09] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: too small, really?
+[2025-04-30 15:01:09] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:11] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:13] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:15] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: are you serious?
+[2025-04-30 15:01:15] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:17] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:19] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:21] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:23] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:25] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:27] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:29] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:31] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:33] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: So, How many bytes do you want?
+[2025-04-30 15:01:33] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:35] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:37] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:39] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:41] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:43] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:45] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:47] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:49] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:51] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:53] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:55] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:57] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:01:59] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:01] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:03] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:05] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:07] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:09] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:11] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:13] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:15] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: Why did you suddenly response to me and you haven't do this before?
+[2025-04-30 15:02:15] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:17] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:19] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:21] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:23] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:25] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:27] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:30] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:32] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:34] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:36] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:36] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: Alright, it seems that you can only repeate this
+[2025-04-30 15:02:38] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:40] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:42] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:43] [INFO] [INFO] MultiThreadServerDemo.cpp:72 | Received data: see you 
+[2025-04-30 15:02:44] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:46] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:48] [INFO] [INFO] MultiThreadServerDemo.cpp:83 | Received PING, sending PONG.
+[2025-04-30 15:02:48] [ERROR] [ERROR] MultiThreadServerDemo.cpp:55 | recv() failed with error: 0
+[2025-04-30 15:02:48] [INFO] [INFO] MultiThreadServerDemo.cpp:108 | Client disconnected.
